@@ -1,4 +1,4 @@
-# MoviesApp for me
+# MoviesApp
 
 
 First of all, install all the libraries using npm install commmand
